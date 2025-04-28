@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Senior Backend Engineer.<br>👯 I’m looking to collaborate and waiting for a reputable Organization<br>🤝 I’m working in the Domain of .NET/Core 5,7,8,9,10 (Backend Focused)<br>🌱<br>💬 Ask me about Any Tech Question Related to My Domain.<br>⚡ Fun fact, I am good at playing games in my Leisure Time.
+🔭 I’m Senior Software Engineer.<br>👯 I’m looking to collaborate and waiting for a reputable Organization<br>🤝 I’m working in the Domain of .NET/Core 5,7,8,9,10 (Backend Focused)<br>🌱I am an expert full-stack developer and data engineer with professional experience in C#, .NET, Entity Framework, Dapper, JavaScript, Angular, Angular.js, HTML5, CSS3, Bootstrap, Python (Flask, TensorFlow, PyTorch, NumPy), Java, PHP (Laravel), R, C, Crystal, and database technologies including MySQL, Microsoft SQL Server, SQLite, MariaDB, and Firebase, as well as UI/UX design (Adobe XD, Canva), API development (Postman), and cloud services (Cloudflare).<br>💬 Ask me about Any Tech Question Related to My Domain.<br>⚡ Fun fact, I am good at playing games in my Leisure Time.
 
 
 ## 🌐 Socials:
