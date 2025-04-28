@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in Digevol.AI.<br>👯 I’m looking to collaborate and waiting for My Field Partner.<br>🤝 I’m working in the Domain of ASP.NET/Core MVC EF7<br>🌱 I’m currently learning Angular, JavaScript (ES6), React, Blockchain, Python,<br> PHP Laravel, Java (Android Native Application).<br>💬 Ask me about Any Tech Question Related to My Domain.<br>⚡ Fun fact, I am good at playing games in my Leisure Time.
+🔭 I’m Senior Backend Engineer.<br>👯 I’m looking to collaborate and waiting for a reputable Organization<br>🤝 I’m working in the Domain of .NET/Core 5,7,8,9,10 (Backend Focused)<br>🌱<br>💬 Ask me about Any Tech Question Related to My Domain.<br>⚡ Fun fact, I am good at playing games in my Leisure Time.
 
 
 ## 🌐 Socials:
